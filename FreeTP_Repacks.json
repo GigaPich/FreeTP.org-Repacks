@@ -4794,11 +4794,11 @@
       "fileSize": "10.22 GB"
     },
     {
-      "title": "Deep Rock Galactic Rogue Core v0.4.143525.0 Portable",
+      "title": "Deep Rock Galactic Rogue Core v0.4.144292.0 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:c2bb7482fd299dce4ef88634525f0d892b51935d&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:f07dd42bfb86a678331977bbe4f481ab5eb70252&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-05-30T07:49:27Z",
+      "uploadDate": "2026-06-05T04:48:51Z",
       "fileSize": "3.79 GB"
     },
     {
@@ -8926,13 +8926,13 @@
       "comment": "https://catorrent.org/other/party-minigame/4647-headsnatchers.html"
     },
     {
-      "title": "Hearts of Iron IV v1.18.2.0 All DLC Repack",
+      "title": "Hearts of Iron IV v1.18.3.0 All DLC Repack",
       "uris": [
-        "magnet:?xt=urn:btih:2ba27f27a2abe5eaf39a935cc5986043538dd1cf&tr=udp://opentor.net:6969&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:f7df07d8442341b40002649dd5a3e18068fa3ab4&tr=udp://opentor.net:6969&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce"
       ],
-      "uploadDate": "2026-05-30T08:50:54Z",
+      "uploadDate": "2026-06-05T11:33:03Z",
       "fileSize": "4.46 GB",
-      "comment": "http://rutor.is/torrent/1087309"
+      "comment": "http://rutor.is/torrent/1088019"
     },
     {
       "title": "Heave Ho v1.08 GoG",
@@ -14684,12 +14684,13 @@
       "fileSize": "12.85 GB"
     },
     {
-      "title": "Project Zomboid 42.18.0 Stable by Pioneer",
+      "title": "Project Zomboid 42.19.0 UnStable by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:d5e29e7f30c15a8ba08a440768d85aff421cc865&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:ca7530b79a6a5ff161f137e2756e24defb5db4d6&tr=udp://opentor.net:6969&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce"
       ],
-      "uploadDate": "2026-05-11T20:23:47Z",
-      "fileSize": "3.95 GB"
+      "uploadDate": "2026-06-04T19:41:37Z",
+      "fileSize": "3.96 GB",
+      "comment": "http://rutor.is/torrent/1087959"
     },
     {
       "title": "Prop Sumo v1.0.1 EGS Portable",
