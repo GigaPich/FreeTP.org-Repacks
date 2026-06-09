@@ -497,10 +497,10 @@
     {
       "title": "Airport Security Sucks! v145 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:31dd283d594c80981abc0703f17473307d9f5660&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:63879e64ae1fed160272b29cfee1f99fb0334494&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-06-07T19:09:30Z",
-      "fileSize": "967.20 MB"
+      "uploadDate": "2026-06-08T18:08:23Z",
+      "fileSize": "1.22 GB"
     },
     {
       "title": "AirportSim v1.0.7 by Pioneer",
@@ -17579,6 +17579,14 @@
       "comment": "http://rutor.org/torrent/229740"
     },
     {
+      "title": "Solarpunk v1.0.0 299719 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:6c5132735aaadc7d16057939632d5080ab6ecc34&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-06-08T14:56:11Z",
+      "fileSize": "797.91 MB"
+    },
+    {
       "title": "Solasta Crown Of The Magister v1.5.46 Portable",
       "uris": [
         "magnet:?xt=urn:btih:74126416b750e9f31d153b0067441aaa6c7efde3&tr=http://bt2.t-ru.org/ann&tr=http://retracker.local/announce"
@@ -19325,6 +19333,14 @@
       "uploadDate": "2026-06-03T10:06:26Z",
       "fileSize": "2.74 GB",
       "comment": "http://rutor.is/torrent/1087813"
+    },
+    {
+      "title": "Terrinoth Heroes of Descent v1.0 8593 47804 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:ef1fe376f961d2c5954aae66c9d5cbb585687ef6&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-06-08T12:55:52Z",
+      "fileSize": "6.03 GB"
     },
     {
       "title": "Terrorbytes v1.00.09 by Pioneer",
