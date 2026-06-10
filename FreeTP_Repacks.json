@@ -12102,12 +12102,12 @@
       "comment": "https://gamesrepack.com/?newsid=4014"
     },
     {
-      "title": "Moonshiner Simulator v0.6.3 Portable",
+      "title": "Moonshiner Simulator v0.6.7 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:110e76f5015af900cb530e9b4d52d539d0b29cf5&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:566c18863a8f185dab5e06e643463408cecbee57&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-05-22T19:43:57Z",
-      "fileSize": "7.74 GB"
+      "uploadDate": "2026-06-09T18:55:20Z",
+      "fileSize": "7.75 GB"
     },
     {
       "title": "Moorhuhn Kart 4 FitGirl Repack",
@@ -20150,6 +20150,15 @@
       "uploadDate": "2025-11-12T17:54:43Z",
       "fileSize": "549.06 MB",
       "comment": "http://rutor.is/torrent/1060441"
+    },
+    {
+      "title": "The Spell Brigade v1.0.4.17009 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:ec95b94f856ca5a9ec22dafedc48145b76eee1a7&tr=udp://opentor.net:6969&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce"
+      ],
+      "uploadDate": "2026-06-09T19:38:36Z",
+      "fileSize": "755.87 MB",
+      "comment": "http://rutor.is/torrent/1088576"
     },
     {
       "title": "The Stomping Land ver. 0.5.7",
