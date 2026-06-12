@@ -1133,13 +1133,13 @@
       "comment": "http://rutor.is/torrent/1087827"
     },
     {
-      "title": "ASTRONEER v1.36.46.0 by Pioneer",
+      "title": "ASTRONEER v1.41.4.0 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:ab7bfe31df915b8654c9471ef21fd21c34f62a11&tr=udp://opentor.net:6969&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:9b853449f736f4e327b9d2eb14f473346438253f&tr=udp://opentor.net:6969&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce"
       ],
-      "uploadDate": "2026-01-22T13:40:37Z",
+      "uploadDate": "2026-06-11T13:31:58Z",
       "fileSize": "2.81 GB",
-      "comment": "http://rutor.is/torrent/1069771"
+      "comment": "http://rutor.is/torrent/1088766"
     },
     {
       "title": "Astrumis Survive Together Portable",
@@ -2638,6 +2638,14 @@
       ],
       "uploadDate": "2025-06-03T08:45:21Z",
       "fileSize": "16.58 GB"
+    },
+    {
+      "title": "Burglin Gnomes by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:7048c21da7cba8061fc48f70bb792f60ac80fb4e&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-06-10T20:07:03Z",
+      "fileSize": "2.83 GB"
     },
     {
       "title": "Bus Bound b2226160 Portable",
@@ -4810,11 +4818,11 @@
       "fileSize": "2.04 GB"
     },
     {
-      "title": "Deep Rock Galactic Rogue Core v0.4.144292.0 Portable",
+      "title": "Deep Rock Galactic Rogue Core v0.4.144984.0 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:f07dd42bfb86a678331977bbe4f481ab5eb70252&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:c142083b37f2ca084d22e947536ff9e5ce354753&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-06-05T04:48:51Z",
+      "uploadDate": "2026-06-12T15:34:14Z",
       "fileSize": "3.79 GB"
     },
     {
@@ -6933,6 +6941,14 @@
       "uploadDate": "2022-01-13T12:08:26Z",
       "fileSize": "14.61 GB",
       "comment": "http://rutor.is/torrent/856516"
+    },
+    {
+      "title": "Fears to Fathom Scratch Creek by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:c5728ce0105cbb30d3c1a91ccc12f6028bcaabb8&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-06-10T19:58:13Z",
+      "fileSize": "5.81 GB"
     },
     {
       "title": "Feather Party v0.0.11.6 by Pioneer",
@@ -11566,6 +11582,14 @@
       ],
       "uploadDate": "2026-06-04T06:01:47Z",
       "fileSize": "2.44 GB"
+    },
+    {
+      "title": "MECCHA CHAMELEON v1.1.1 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:060d273869077e98249f36037e0ca38a3b697def&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-06-11T17:31:29Z",
+      "fileSize": "3.78 GB"
     },
     {
       "title": "Mechabellum v1.10.0.2.2011 Portable",
@@ -16503,6 +16527,15 @@
       "comment": "http://rutor.is/torrent/1086139"
     },
     {
+      "title": "Satisfactory v1.2.3.0 build 493833 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:48ea3f5ad6bf5d3fd49ee9244a12a0e36994e157&tr=udp://opentor.net:6969&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce"
+      ],
+      "uploadDate": "2026-06-11T13:53:37Z",
+      "fileSize": "11.32 GB",
+      "comment": "http://rutor.is/torrent/1088770"
+    },
+    {
       "title": "Savage Lands v22.11.2022 by FreeTP",
       "uris": [
         "magnet:?xt=urn:btih:95832664db22c38cfe21e701cc4d9f6673b1aaf7&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce"
@@ -19204,12 +19237,12 @@
       "comment": "http://rutor.is/torrent/938350"
     },
     {
-      "title": "Teardown v2.0.1 (v23.04.2026) by Pioneer",
+      "title": "Teardown v2.0.3 (v11.06.2026) by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:6824bd925543838e4d3f386917256f98f89ea3c8&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:6088c51f54b10a085735b2bceba8fa69b47b6b23&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-04-23T14:55:55Z",
-      "fileSize": "2.00 GB"
+      "uploadDate": "2026-06-11T14:30:09Z",
+      "fileSize": "5.14 GB"
     },
     {
       "title": "Technicity v1.4c by Pioneer",
@@ -22297,6 +22330,14 @@
       "uploadDate": "2026-04-05T06:14:23Z",
       "fileSize": "7.40 GB",
       "comment": "http://rutor.is/torrent/1079896"
+    },
+    {
+      "title": "Witchspire CL27974 Portable",
+      "uris": [
+        "magnet:?xt=urn:btih:86cfe69a472a916606f9d4c493ef270db9080622&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-06-10T20:37:45Z",
+      "fileSize": "6.37 GB"
     },
     {
       "title": "Witchtastic by FitGirl",
