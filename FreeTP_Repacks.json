@@ -2,6 +2,14 @@
   "name": "FreeTP Repacks",
   "downloads": [
     {
+      "title": "(JDM) Japanese Drift Master v1.4.100.1 Portable",
+      "uris": [
+        "magnet:?xt=urn:btih:79f9800a00e5cbc982709aa8494b6d7eedb617aa&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-06-13T05:49:45Z",
+      "fileSize": "15.68 GB"
+    },
+    {
       "title": "007 Legends Update 1 by qoob",
       "uris": [
         "magnet:?xt=urn:btih:4376a6c7e37e77ba158de3a6472fe71031b7e94c&tr=udp://opentor.net:6969&tr=http://retracker.local/announce&tr=http://tracker.grepler.com:6969/announce"
@@ -1696,13 +1704,12 @@
       "fileSize": "2.21 GB"
     },
     {
-      "title": "Bellwright v0.0.46915 Portable",
+      "title": "Bellwright v0.0.50810 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:b92e2b37212c64e5526059f4d94242eb89e9b66b&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonoid.ch:6969/announce"
+        "magnet:?xt=urn:btih:d16b45f142196cf8d010f0da54ff48b9a97b2760&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-01-07T19:15:19Z",
-      "fileSize": "23.34 GB",
-      "comment": "https://byxatab.com/games/torrent_igry/rpg/bellwright/2-1-0-3293"
+      "uploadDate": "2026-06-13T08:08:01Z",
+      "fileSize": "22.92 GB"
     },
     {
       "title": "Belts Of Iron v0.3.15 Portable",
@@ -8120,6 +8127,14 @@
       ],
       "uploadDate": "2026-04-23T10:50:03Z",
       "fileSize": "2.82 GB"
+    },
+    {
+      "title": "Goblin Company v1.0.1 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:4769ec2b037d11a5ef3a07f636f330f15ed6a1f1&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-06-13T06:19:31Z",
+      "fileSize": "666.44 MB"
     },
     {
       "title": "God Eater 3 v2.50 Repack Fitgirl",
