@@ -11,5 +11,5 @@ A lightweight JSON metadata source containing magnet links for FreeTP.org repack
 4. Paste the link and click **Add**.
 
 ---
-*Updated June 13, 2026*
-~2663 Repacks
+*Updated June 14, 2026*
+~2665 Repacks
