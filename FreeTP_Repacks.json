@@ -11633,12 +11633,12 @@
       "fileSize": "2.44 GB"
     },
     {
-      "title": "MECCHA CHAMELEON v1.2.2 by Pioneer",
+      "title": "MECCHA CHAMELEON v1.3.0 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:6105ae424845c76d103216e3411790c734533972&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:04191d463d103e64e8fe6689d186f16541b27b33&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-06-15T10:08:41Z",
-      "fileSize": "3.88 GB"
+      "uploadDate": "2026-06-16T17:00:12Z",
+      "fileSize": "3.64 GB"
     },
     {
       "title": "Mechabellum v1.10.0.2.2011 Portable",
@@ -20249,6 +20249,15 @@
       "uploadDate": "2026-06-09T19:38:36Z",
       "fileSize": "755.87 MB",
       "comment": "http://rutor.is/torrent/1088576"
+    },
+    {
+      "title": "The Spell Brigade v1.0.5.17381 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:253f44cae41c96468d16a8331f6f3640dbbd5e9f&tr=udp://opentor.net:6969&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce"
+      ],
+      "uploadDate": "2026-06-16T18:43:14Z",
+      "fileSize": "921.14 MB",
+      "comment": "http://rutor.is/torrent/1089555"
     },
     {
       "title": "The Stomping Land ver. 0.5.7",
