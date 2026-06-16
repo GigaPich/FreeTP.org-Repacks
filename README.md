@@ -12,4 +12,4 @@ A lightweight JSON metadata source containing magnet links for FreeTP.org repack
 
 ---
 *Updated June 16, 2026*
-~2667 Repacks
+~2668 Repacks
