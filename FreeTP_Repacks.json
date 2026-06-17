@@ -54,12 +54,12 @@
       "comment": "http://rutor.is/torrent/1033229"
     },
     {
-      "title": "33 Immortals v0.72.0.10499 Portable",
+      "title": "33 Immortals v1.0.0.13772 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:e3494b8c7ac7fba2b0b6ebbb8038af226fe86c25&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:933c826c1089f40679ecebb07696e90c9ec28714&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-03-22T11:58:51Z",
-      "fileSize": "2.35 GB"
+      "uploadDate": "2026-06-17T09:16:52Z",
+      "fileSize": "3.06 GB"
     },
     {
       "title": "39 Days to Mars v1.1.10.0",
@@ -113,6 +113,15 @@
       "uploadDate": "2026-06-12T19:07:42Z",
       "fileSize": "13.14 GB",
       "comment": "http://rutor.is/torrent/1088891"
+    },
+    {
+      "title": "7 Days To Die v3.0.0 b252 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:d3ed1ef16165809fbd5cb9ab62bbfd102773db53&tr=udp://opentor.net:6969&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce"
+      ],
+      "uploadDate": "2026-06-16T19:45:49Z",
+      "fileSize": "13.69 GB",
+      "comment": "http://rutor.is/torrent/1089560"
     },
     {
       "title": "7 Minutes in Hell b18273557 by Pioneer",
@@ -1432,12 +1441,12 @@
       "fileSize": "687.67 MB"
     },
     {
-      "title": "Barotrauma v1.12.7.0 by Pioneer",
+      "title": "Barotrauma v1.13.3.1 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:ca42f26e88ba6363749d8e3f74e2e6936c169ac6&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:6183fb54a88ad6377bd6e2b5f42e7a94ff9c4faf&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-04-22T15:03:54Z",
-      "fileSize": "1012.98 MB"
+      "uploadDate": "2026-06-16T19:59:03Z",
+      "fileSize": "1012.66 MB"
     },
     {
       "title": "Battle Cry of Freedom b222206d by FreeTP",
@@ -12175,12 +12184,12 @@
       "comment": "https://gamesrepack.com/?newsid=4014"
     },
     {
-      "title": "Moonshiner Simulator v0.6.7 Portable",
+      "title": "Moonshiner Simulator v0.7.2 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:566c18863a8f185dab5e06e643463408cecbee57&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:9a09365d5485d354665227d3bfedd48f590fed1e&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-06-09T18:55:20Z",
-      "fileSize": "7.75 GB"
+      "uploadDate": "2026-06-17T08:30:09Z",
+      "fileSize": "7.85 GB"
     },
     {
       "title": "Moorhuhn Kart 4 FitGirl Repack",
