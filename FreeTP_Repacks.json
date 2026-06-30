@@ -124,6 +124,15 @@
       "comment": "http://rutor.is/torrent/1089560"
     },
     {
+      "title": "7 Days To Die v3.0.0 b257 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:5dbaad5e7d1fcf8454e58bb8e4ce615b3c8abe1c&tr=udp://opentor.net:6969&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce"
+      ],
+      "uploadDate": "2026-06-23T12:31:50Z",
+      "fileSize": "13.67 GB",
+      "comment": "http://rutor.is/torrent/1090405"
+    },
+    {
       "title": "7 Minutes in Hell b18273557 by Pioneer",
       "uris": [
         "magnet:?xt=urn:btih:9bcc83576ec6ff078c0a177541250b13b9a1b585&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://open.tracker.cl:1337/announce"
@@ -357,12 +366,12 @@
       "comment": "http://rutor.is/torrent/969908"
     },
     {
-      "title": "Across The Obelisk v1.7.4.2 by Pioneer",
+      "title": "Across The Obelisk v1.7.6 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:6f9da71e04e278669fffed850505407eb503a14e&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:87ef2dee114e53af69c2508fce307d98ec916430&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-03-02T21:16:44Z",
-      "fileSize": "1.44 GB"
+      "uploadDate": "2026-06-20T06:51:06Z",
+      "fileSize": "1.47 GB"
     },
     {
       "title": "Aegis Defenders by Pioneer",
@@ -1449,12 +1458,12 @@
       "fileSize": "687.67 MB"
     },
     {
-      "title": "Barotrauma v1.13.3.1 by Pioneer",
+      "title": "Barotrauma v1.13.4.0 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:6183fb54a88ad6377bd6e2b5f42e7a94ff9c4faf&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:92d8e0de54a718abfe79775c19c81146a8e2e613&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-06-16T19:59:03Z",
-      "fileSize": "1012.66 MB"
+      "uploadDate": "2026-06-20T15:34:34Z",
+      "fileSize": "1012.52 MB"
     },
     {
       "title": "Battle Cry of Freedom b222206d by FreeTP",
@@ -1721,12 +1730,13 @@
       "fileSize": "2.21 GB"
     },
     {
-      "title": "Bellwright v0.0.50810 Portable",
+      "title": "Bellwright v0.0.50879 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:d16b45f142196cf8d010f0da54ff48b9a97b2760&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:b838bef60408f459ffdd5f8460b6af2b09486f7f&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonoid.ch:6969/announce"
       ],
-      "uploadDate": "2026-06-13T08:08:01Z",
-      "fileSize": "22.92 GB"
+      "uploadDate": "2026-06-18T14:27:31Z",
+      "fileSize": "23.62 GB",
+      "comment": "https://byxatab.com/games/torrent_igry/rpg/bellwright/2-1-0-3293"
     },
     {
       "title": "Belts Of Iron v0.3.15 Portable",
@@ -2152,12 +2162,12 @@
       "fileSize": "2.01 GB"
     },
     {
-      "title": "Blood Typers v1.1.9 Portable",
+      "title": "Blood Typers v1.3.5 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:9d615ace7012ad05d34ac473b10180b0f09d63e1&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://open.tracker.cl:1337/announce"
+        "magnet:?xt=urn:btih:608b0075f6d6dceb6f70b9a8873b23cf936dee85&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2025-08-24T17:57:13Z",
-      "fileSize": "867.36 MB"
+      "uploadDate": "2026-06-20T07:22:38Z",
+      "fileSize": "1.23 GB"
     },
     {
       "title": "Bloodsports.TV",
@@ -2689,6 +2699,14 @@
       "fileSize": "2.83 GB"
     },
     {
+      "title": "Burglin Gnomes v27.06.2026 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:5c308781877730336cba8157d5a78b4379a59835&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-06-27T10:10:30Z",
+      "fileSize": "2.85 GB"
+    },
+    {
       "title": "Bus Bound b2226160 Portable",
       "uris": [
         "magnet:?xt=urn:btih:8a7b26374a24b0b0cbae7dded9f1ab79da58cecc&tr=http://bt.t-ru.org/ann&tr=http://retracker.local/announce"
@@ -2971,13 +2989,13 @@
       "comment": "https://rutracker.org/forum/viewtopic.php?t=6094055"
     },
     {
-      "title": "Car Service Together v0.986F72 by Pioneer",
+      "title": "Car Service Together v0.980F90 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:239d525463afc37f1b9fc08753d80da2b224c67a&tr=udp://opentor.net:6969&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce"
+        "magnet:?xt=urn:btih:940223c27e0ea3f5af887166a8e98e3e5737516a&tr=udp://opentor.net:6969&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-06-18T09:30:16Z",
+      "uploadDate": "2026-06-25T04:45:18Z",
       "fileSize": "2.11 GB",
-      "comment": "http://rutor.is/torrent/1089758"
+      "comment": "http://rutor.is/torrent/1090540"
     },
     {
       "title": "Caravanners Co op Open World Camping b21275775 (от 09.02.2026) Portable",
@@ -3245,12 +3263,12 @@
       "comment": "http://rutor.is/torrent/1003581"
     },
     {
-      "title": "Chained Wheels Portable",
+      "title": "Chained Wheels v26.06.2026 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:7be16bba485fede58735137223fe6adcd75e2314&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce"
+        "magnet:?xt=urn:btih:47c7930548087c44d3dd9a70a25817d4b5343bb4&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-04-02T19:26:07Z",
-      "fileSize": "2.45 GB"
+      "uploadDate": "2026-06-26T10:43:29Z",
+      "fileSize": "2.00 GB"
     },
     {
       "title": "Champion Shift v1.0.0 47000 Portable by Tenoke",
@@ -3440,12 +3458,12 @@
       "fileSize": "973.45 MB"
     },
     {
-      "title": "Circle Empires 2 v1.180 by Pioneer",
+      "title": "Circle Empires 2 v1.212 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:f923cc81ebd7a755b6765f3c2779ce4c1e75b4d8&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:db440a1a3412d600a84d56d50b1854f416352724&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-05-25T10:20:39Z",
-      "fileSize": "210.28 MB"
+      "uploadDate": "2026-06-21T16:08:57Z",
+      "fileSize": "226.11 MB"
     },
     {
       "title": "Circle Empires Rivals v2.0.24",
@@ -4088,6 +4106,14 @@
       "fileSize": "49.39 MB"
     },
     {
+      "title": "Crazy Fruit Shooter v22.06.2026 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:fd9eec87a710719b88795aca0080c415154c1b5e&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-06-22T04:52:51Z",
+      "fileSize": "142.64 MB"
+    },
+    {
       "title": "Crea v1.7.5 by Pioneer",
       "uris": [
         "magnet:?xt=urn:btih:235b3f6ef059fed897300757444f51f33de58cd2"
@@ -4430,11 +4456,11 @@
       "comment": "https://nnmclub.to/forum/viewtopic.php?p=12681203"
     },
     {
-      "title": "Dark Hours v1.0.26633 Portable",
+      "title": "Dark Hours v1.0.26953 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:cfaed303c1295bb7aacdc8ea0d7a42179e064447&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:7686df7ddb108259b22762ef8bb56bbe445f2c07&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-04-25T11:17:42Z",
+      "uploadDate": "2026-06-27T14:23:54Z",
       "fileSize": "2.05 GB"
     },
     {
@@ -5705,12 +5731,12 @@
       "fileSize": "968.28 MB"
     },
     {
-      "title": "Drive Beyond Horizons b23590343 Portable",
+      "title": "Drive Beyond Horizons b23944089 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:7e33884dd9981f514c2c513d06495e2fcff150d1&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:86bd0b8e47b0f4bfdd7ffb794a7bf06013cac4ac&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-06-06T05:28:24Z",
-      "fileSize": "15.17 GB"
+      "uploadDate": "2026-06-29T18:17:50Z",
+      "fileSize": "15.37 GB"
     },
     {
       "title": "Drop Dead The Cabin by Pioneer",
@@ -5997,12 +6023,13 @@
       "comment": "https://rutracker.org/forum/viewtopic.php?t=6169324"
     },
     {
-      "title": "DYSPLACED v0.6.13.8 by Pioneer",
+      "title": "DYSPLACED v0.7.6.2 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:beb9b47d644263b202617c6e9a858fbffeeb9e3c&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:72aa1bc28564cec3caa34809823b0da09cb6bed0&tr=http://bt.t-ru.org/ann&tr=http://retracker.local/announce"
       ],
-      "uploadDate": "2026-03-06T06:05:30Z",
-      "fileSize": "669.45 MB"
+      "uploadDate": "2026-06-29T14:39:57Z",
+      "fileSize": "1.20 GB",
+      "comment": "https://rutracker.org/forum/viewtopic.php?t=6826385"
     },
     {
       "title": "E TECH SIMULATOR by FreeTP",
@@ -6482,13 +6509,12 @@
       "fileSize": "2.13 GB"
     },
     {
-      "title": "Escape the Backrooms v1.10 Portable",
+      "title": "Escape the Backrooms v1.3.2 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:6e1d2428f7244092198b5dd4e01685e1d74c3def&tr=udp://opentor.net:6969&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:e611e1a19191a7561fa8f94f55adbc14ac30461b&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-02-06T14:39:54Z",
-      "fileSize": "25.71 GB",
-      "comment": "http://rutor.is/torrent/1071762"
+      "uploadDate": "2026-06-27T15:26:41Z",
+      "fileSize": "25.76 GB"
     },
     {
       "title": "Escape Z v1.0 Portable",
@@ -6993,11 +7019,11 @@
       "comment": "http://rutor.is/torrent/856516"
     },
     {
-      "title": "Fears to Fathom Scratch Creek by Pioneer",
+      "title": "Fears to Fathom Scratch Creek v29.06.2026 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:c5728ce0105cbb30d3c1a91ccc12f6028bcaabb8&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:3f5dab5ab5e5a48206a449f1d45e0abd7b6c7550&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-06-10T19:58:13Z",
+      "uploadDate": "2026-06-29T14:46:45Z",
       "fileSize": "5.81 GB"
     },
     {
@@ -7351,12 +7377,12 @@
       "comment": "http://rutor.is/torrent/882337"
     },
     {
-      "title": "Flock Around v1.0.14 Portable",
+      "title": "Flock Around v1.0.61 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:a4578c4e353691d1ab91ef78ed414dbcee13b049&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:f4d066f63acf9b6eeb6f7fc129ce8cd3ba3bee75&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-04-28T12:39:26Z",
-      "fileSize": "759.97 MB"
+      "uploadDate": "2026-06-21T20:23:15Z",
+      "fileSize": "852.88 MB"
     },
     {
       "title": "Flock b12120 by Pioneer",
@@ -7682,6 +7708,14 @@
       ],
       "uploadDate": "2025-06-28T12:39:41Z",
       "fileSize": "922.77 MB"
+    },
+    {
+      "title": "Frog Sqwad v1.6.6164 UWP",
+      "uris": [
+        "magnet:?xt=urn:btih:86ce751c2dff73372f642294c1c11b2f5bdc8d30&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-06-29T17:13:12Z",
+      "fileSize": "551.96 MB"
     },
     {
       "title": "Frogun Encore v1.9.3 Portable",
@@ -9519,13 +9553,13 @@
       "comment": "RuTor.Org"
     },
     {
-      "title": "Human Fall Flat v1093513 by Pioneer",
+      "title": "Human Fall Flat v1096141 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:8d2216e92e0a7e3d9966d5ec4796c3e462527382&tr=udp://opentor.net:6969&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:8fd04d0838e9b1c9f275c777b6f01c448b9892ae&tr=udp://opentor.net:6969&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce"
       ],
-      "uploadDate": "2025-09-05T13:10:36Z",
-      "fileSize": "1.80 GB",
-      "comment": "http://rutor.is/torrent/1051884"
+      "uploadDate": "2026-06-22T15:53:24Z",
+      "fileSize": "2.10 GB",
+      "comment": "http://rutor.is/torrent/1090309"
     },
     {
       "title": "HumanitZ v0.910 Portable by FreeTP",
@@ -9640,12 +9674,12 @@
       "fileSize": "81.95 MB"
     },
     {
-      "title": "I Know a Guy Shady Life Simulator v11.004.2.5 by Pioneer",
+      "title": "I Know a Guy Shady Life Simulator v21.06.2026 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:ee0623cfee6b79c50ea2c9dc41d8a0f09904eae7&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:0c662ac8fc00626b0a8c61083d0ba8c7979b8bfd&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-05-24T05:57:33Z",
-      "fileSize": "888.81 MB"
+      "uploadDate": "2026-06-21T13:49:55Z",
+      "fileSize": "933.46 MB"
     },
     {
       "title": "I wanna be The Cat v1.4 Portable",
@@ -10136,12 +10170,12 @@
       "comment": "https://rutracker.org/forum/viewtopic.php?t=5689553"
     },
     {
-      "title": "Jump Space v0.6.13.158 by Pioneer",
+      "title": "Jump Space v0.7.15.5 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:20afb89271f49f8a3834d9faf9cb9ab0fac919ed&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce"
+        "magnet:?xt=urn:btih:425f24317333a4a9184b0e3dd260b84ad488991a&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-04-10T16:42:04Z",
-      "fileSize": "8.83 GB"
+      "uploadDate": "2026-06-27T14:59:15Z",
+      "fileSize": "8.44 GB"
     },
     {
       "title": "JUMP The Floor Is Repack by seleZen",
@@ -11491,12 +11525,12 @@
       "comment": "http://rutor.org/torrent/99966"
     },
     {
-      "title": "Make Way v1.2.5.4 Steam (121) by FreeTP",
+      "title": "Make Way v1.4.0.6 Steam (121) by FreeTP",
       "uris": [
-        "magnet:?xt=urn:btih:1d652fe91d11430baf0ccc074178d493c9800e17&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.openbittorrent.com:80/announce"
+        "magnet:?xt=urn:btih:c4421524781f3d57fd6a50ef1d0d9baa28c45acf&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2024-06-26T16:13:38Z",
-      "fileSize": "381.97 MB"
+      "uploadDate": "2026-06-24T11:56:25Z",
+      "fileSize": "586.07 MB"
     },
     {
       "title": "Mall Heist Portable",
@@ -11507,12 +11541,12 @@
       "fileSize": "575.08 MB"
     },
     {
-      "title": "Mall Rivals v0.3.1 Portable",
+      "title": "Mall Rivals v0.4.2.003 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:124a4ed18a561d31e91a20d721aac0ad3eb8f4af&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:5afea62dc59353199b26fab13527769df38b97e7&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-05-04T19:09:00Z",
-      "fileSize": "1.36 GB"
+      "uploadDate": "2026-06-26T10:14:28Z",
+      "fileSize": "1.91 GB"
     },
     {
       "title": "Malum b7342990 by Pioneer",
@@ -11659,12 +11693,12 @@
       "fileSize": "2.44 GB"
     },
     {
-      "title": "MECCHA CHAMELEON v1.4.1 by Pioneer",
+      "title": "MECCHA CHAMELEON v2.3.0 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:a9e3ae2e21a7fa7c27061032226b6a118fe13863&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:2f754bfdab891fa05980e39b0763dd85bfd54647&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-06-18T19:12:32Z",
-      "fileSize": "2.10 GB"
+      "uploadDate": "2026-06-29T16:00:56Z",
+      "fileSize": "2.19 GB"
     },
     {
       "title": "Mechabellum v1.10.0.2.2011 Portable",
@@ -11949,9 +11983,9 @@
     {
       "title": "MIMESIS v0.3.04f2c8b5be9 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:59b986ad54aab5e7de83f538f239a841b0e0e72e&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:12ea9d057e7313ab86dcd4ff6c86f2947bb3ca5d&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-06-19T16:44:05Z",
+      "uploadDate": "2026-06-20T06:08:43Z",
       "fileSize": "3.49 GB"
     },
     {
@@ -13138,12 +13172,12 @@
       "fileSize": "1.52 GB"
     },
     {
-      "title": "No Man's Sky v169265 Portable",
+      "title": "No Man's Sky v170946 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:f36d422cd7b83e6b10e7bf64df3aad8c3b375a50&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:f5a13564a9962f0a63bea2604bb1e3c457c61310&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-06-01T19:03:41Z",
-      "fileSize": "27.92 GB"
+      "uploadDate": "2026-06-28T06:57:04Z",
+      "fileSize": "27.72 GB"
     },
     {
       "title": "No One Lives Forever 2 A Spy in HARMs",
@@ -13290,6 +13324,14 @@
       "comment": "http://rutor.org/torrent/248220"
     },
     {
+      "title": "Nuclear Epoch v1.0.0.3 Portable",
+      "uris": [
+        "magnet:?xt=urn:btih:64eaead5c5eaf483425ad0e2ac2d96b26e304536&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-06-29T13:49:26Z",
+      "fileSize": "23.40 GB"
+    },
+    {
       "title": "Nuclear Nightmare v5.2 Portable",
       "uris": [
         "magnet:?xt=urn:btih:46bfc39458662b09d1efe0dcc258872613694a1c&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonoid.ch:6969/announce"
@@ -13388,6 +13430,14 @@
       ],
       "uploadDate": "2025-09-08T09:24:00Z",
       "fileSize": "1.31 GB"
+    },
+    {
+      "title": "OK Boomer v26.06.2026 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:20b1b7274b2c27b64a2ca2614439f2340bf1b45e&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-06-26T19:40:49Z",
+      "fileSize": "459.32 MB"
     },
     {
       "title": "Old Market Simulator v2.0.2 by Pioneer",
@@ -14112,11 +14162,20 @@
       "comment": "http://rutor.is/torrent/483246"
     },
     {
-      "title": "PEAK stable.1.63.A (04.06.2026) by Pioneer",
+      "title": "PBA Pro Bowling 2026 by FitGirl",
       "uris": [
-        "magnet:?xt=urn:btih:e8c21301e6e1cccb491ce34658736044c48ef800&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:3ae61b62f80231e01442dcdfa3d4b89cd2e9c24b&tr=http://bt.t-ru.org/ann&tr=http://tr.ysagin.top:2710/announce&tr=udp://opentor.org:2710"
       ],
-      "uploadDate": "2026-06-04T09:40:52Z",
+      "uploadDate": "2025-12-28T14:20:08Z",
+      "fileSize": "5.56 GB",
+      "comment": "Включите DHT чтобы увеличить скорость скачивания"
+    },
+    {
+      "title": "PEAK stable.1.64.A (25.06.2026) by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:c92bb943d5779eb5ca925685b2acab0ede15b924&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-06-25T19:22:02Z",
       "fileSize": "1.43 GB"
     },
     {
@@ -14679,11 +14738,11 @@
       "fileSize": "1.65 GB"
     },
     {
-      "title": "Pratfall v1.2.0R4018 Portable",
+      "title": "Pratfall v1.2.0R4022 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:9c7372231d6fbd6a9864425ce39f268525a46f8b&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:76b1dad9b227d82eefcbb6bd5c8dad9e96a65b50&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-06-19T16:11:21Z",
+      "uploadDate": "2026-06-20T06:06:22Z",
       "fileSize": "897.23 MB"
     },
     {
@@ -14939,6 +14998,14 @@
       ],
       "uploadDate": "2025-05-30T15:34:24Z",
       "fileSize": "2.56 GB"
+    },
+    {
+      "title": "Quack Quack Up v1.0.1 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:6d862390f5ac4aa492b3fd1614787add59e6ecc1&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-06-29T16:36:12Z",
+      "fileSize": "3.36 GB"
     },
     {
       "title": "Quake 2 v3.20 Multiplayer by Pioneer",
@@ -17302,6 +17369,14 @@
       "fileSize": "1.14 GB"
     },
     {
+      "title": "Sineus Arena Survivors v1.05 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:1561a7452de5dd2c7604ccccd1633b4884871039&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-06-26T19:14:02Z",
+      "fileSize": "298.79 MB"
+    },
+    {
       "title": "Singularity 2010 RePack by Canek77",
       "uris": [
         "magnet:?xt=urn:btih:90a1d5e4f6f86ca695d310bd5676bb5d11f333a0&tr=udp://opentor.net:6969&tr=http://retracker.local/announce&tr=http://tracker.grepler.com:6969/announce"
@@ -17668,13 +17743,13 @@
       "fileSize": "7.79 GB"
     },
     {
-      "title": "Software Inc. v1.7.27 by Pioneer",
+      "title": "Software Inc. v1.8.41 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:390cfa696f6082c49070ab951f4cda3cf31fcd5e&tr=udp://opentor.net:6969&tr=udp://tracker.openbittorrent.com:80/announce&tr=http://retracker.local/announce"
+        "magnet:?xt=urn:btih:435e80df039afba04b94a7311ee95ba644912026&tr=udp://opentor.net:6969&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2024-01-12T15:09:21Z",
-      "fileSize": "219.31 MB",
-      "comment": "http://rutor.is/torrent/963841"
+      "uploadDate": "2026-06-27T14:13:29Z",
+      "fileSize": "248.96 MB",
+      "comment": "http://rutor.is/torrent/1093925"
     },
     {
       "title": "Sol Survivor R.G. UPG",
@@ -17686,12 +17761,12 @@
       "comment": "http://rutor.org/torrent/229740"
     },
     {
-      "title": "Solarpunk v1.0.0 299719 by Pioneer",
+      "title": "Solarpunk v1.0.4 300693 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:6c5132735aaadc7d16057939632d5080ab6ecc34&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:a700ea8391d64f2a543848fce2fa1a457107896a&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-06-08T14:56:11Z",
-      "fileSize": "797.91 MB"
+      "uploadDate": "2026-06-20T09:19:01Z",
+      "fileSize": "799.28 MB"
     },
     {
       "title": "Solasta Crown Of The Magister v1.5.46 Portable",
@@ -17843,13 +17918,13 @@
       "fileSize": "26.72 GB"
     },
     {
-      "title": "Space Engineers v1.208.015 by Pioneer[14 Gb] + Все DLC",
+      "title": "Space Engineers v1.209.024 by Pioneer[15 Gb] + Все DLC",
       "uris": [
-        "magnet:?xt=urn:btih:42d9f01249799f2e4f8d3107adf9731f8429e369&tr=udp://opentor.net:6969&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:b8a867b75872eb8b408d15e334272ca5a01c3ae8&tr=udp://opentor.net:6969&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce"
       ],
-      "uploadDate": "2025-12-12T09:09:50Z",
-      "fileSize": "14.23 GB",
-      "comment": "http://rutor.is/torrent/1064433"
+      "uploadDate": "2026-06-21T11:15:43Z",
+      "fileSize": "15.14 GB",
+      "comment": "http://rutor.is/torrent/1090153"
     },
     {
       "title": "Space for Sale v2024.07.30.07.32 by Pioneer",
@@ -22439,11 +22514,11 @@
       "comment": "http://rutor.is/torrent/1079896"
     },
     {
-      "title": "Witchspire CL28089 Portable",
+      "title": "Witchspire CL28366 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:29643307feb31debb69ee1d4012330fc2d96b707&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:907bb253f83dfb7b45867aacac5efcb3d43e92f2&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-06-13T15:56:10Z",
+      "uploadDate": "2026-06-21T11:31:25Z",
       "fileSize": "6.37 GB"
     },
     {
@@ -22816,12 +22891,13 @@
       "comment": "http://rutor.is/torrent/437218"
     },
     {
-      "title": "ZEPHON v1.1.4 Portable",
+      "title": "ZEPHON v1.3.7 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:5391c912137348fa43b9651fc52d4c05a96cbd75&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:aeb8350ce5da82af964387f863b802109b5b270b&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonoid.ch:6969/announce"
       ],
-      "uploadDate": "2025-05-02T20:01:04Z",
-      "fileSize": "7.92 GB"
+      "uploadDate": "2026-06-27T15:48:33Z",
+      "fileSize": "8.76 GB",
+      "comment": "https://byxatab.com/games/torrent_igry/strategy/zephon-2024/7-1-0-3583"
     },
     {
       "title": "Zombie army 4 Dead War Super Deluxe Edition by xatab.",
