@@ -133,6 +133,15 @@
       "comment": "http://rutor.is/torrent/1090405"
     },
     {
+      "title": "7 Days To Die v3.0.0 b259 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:443a27e5d312a2b155422d6066d5d504d3633115&tr=udp://opentor.net:6969&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce"
+      ],
+      "uploadDate": "2026-06-30T10:00:21Z",
+      "fileSize": "13.67 GB",
+      "comment": "http://rutor.is/torrent/1095948"
+    },
+    {
       "title": "7 Minutes in Hell b18273557 by Pioneer",
       "uris": [
         "magnet:?xt=urn:btih:9bcc83576ec6ff078c0a177541250b13b9a1b585&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://open.tracker.cl:1337/announce"
@@ -11693,12 +11702,12 @@
       "fileSize": "2.44 GB"
     },
     {
-      "title": "MECCHA CHAMELEON v2.3.0 by Pioneer",
+      "title": "MECCHA CHAMELEON v2.3.1 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:2f754bfdab891fa05980e39b0763dd85bfd54647&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:efdd5ec62e6ae75a951b309b92151a501cc0443e&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-06-29T16:00:56Z",
-      "fileSize": "2.19 GB"
+      "uploadDate": "2026-07-01T16:10:22Z",
+      "fileSize": "2.45 GB"
     },
     {
       "title": "Mechabellum v1.10.0.2.2011 Portable",
@@ -14625,12 +14634,12 @@
       "comment": "Torrent downloaded from torrent cache at http://torcache.net/"
     },
     {
-      "title": "POPUCOM v1.1.2 EGS Portable By dudisuper6",
+      "title": "POPUCOM v1.2.0 EGS Portable By dudisuper6",
       "uris": [
-        "magnet:?xt=urn:btih:b7148d5f0326ce9560c6bc5460096e0fca00839a&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://utracker.ghostchu-services.top:6969/announce"
+        "magnet:?xt=urn:btih:0fc14b9b29209493374cf4f501f2274781d71fbc&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-03-30T13:09:29Z",
-      "fileSize": "9.82 GB"
+      "uploadDate": "2026-06-30T13:57:25Z",
+      "fileSize": "10.22 GB"
     },
     {
       "title": "Portal 2 v2001 b 5318",
