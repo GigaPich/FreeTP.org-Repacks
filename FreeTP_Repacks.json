@@ -150,6 +150,15 @@
       "comment": "http://rutor.is/torrent/1095948"
     },
     {
+      "title": "7 Days To Die v3.0.1 b4 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:cc3dc7aa30b1aa7ff46c61194b0eec77903ccd9e&tr=udp://opentor.net:6969&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce"
+      ],
+      "uploadDate": "2026-07-14T17:03:08Z",
+      "fileSize": "13.66 GB",
+      "comment": "http://rutor.is/torrent/1098892"
+    },
+    {
       "title": "7 Minutes in Hell b18273557 by Pioneer",
       "uris": [
         "magnet:?xt=urn:btih:9bcc83576ec6ff078c0a177541250b13b9a1b585&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://open.tracker.cl:1337/announce"
@@ -190,6 +199,14 @@
       ],
       "uploadDate": "2026-05-30T09:00:22Z",
       "fileSize": "249.10 MB"
+    },
+    {
+      "title": "A Game About Chopping Trees v15.07 2026 Portable",
+      "uris": [
+        "magnet:?xt=urn:btih:98cf0a844ef97ece63c2c789356b0480684cb9a9&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=http://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-07-15T16:23:11Z",
+      "fileSize": "2.85 GB"
     },
     {
       "title": "A Game of Thrones The Board Game GE v090733",
@@ -294,6 +311,14 @@
       ],
       "uploadDate": "2026-05-14T04:51:20Z",
       "fileSize": "1.85 GB"
+    },
+    {
+      "title": "Abiotic Factor v1.4.0.27841 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:12d257a8e0ae6ca9ccd7793bd2b73b3f1a565b09&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=http://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-07-14T19:20:36Z",
+      "fileSize": "1.87 GB"
     },
     {
       "title": "ABRACA Imagic Games by Pioneer",
@@ -4321,12 +4346,12 @@
       "comment": "http://rutor.is/torrent/885301"
     },
     {
-      "title": "CURE A Hospital Simulator v0.2.3.X Portable",
+      "title": "CURE A Hospital Simulator v0.4.8 Portable",
       "uris": [
-        "magnet:?xt=urn:btih:0a6e03aa7259b98e281805f9b8509666c68cf324&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:cf65d42a44a9b96ce2ca3012b9df6396cd913452&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=http://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-02-25T20:10:08Z",
-      "fileSize": "2.90 GB"
+      "uploadDate": "2026-07-14T17:33:27Z",
+      "fileSize": "4.58 GB"
     },
     {
       "title": "Curious Cases b4722520 by Pioneer",
@@ -17534,6 +17559,14 @@
       "fileSize": "5.09 GB"
     },
     {
+      "title": "Sketchy s Contract v1.0 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:c2aaeea549959ec0005c3862cc1ce0df6a98d7fe&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=http://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-07-15T17:15:47Z",
+      "fileSize": "5.21 GB"
+    },
+    {
       "title": "Skopje 83 v1.0.0070 Portable",
       "uris": [
         "magnet:?xt=urn:btih:9a1687bbd14cf5d1e85c4a9f57ff917267a12619&tr=udp://open.demonoid.ch:6969/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce"
@@ -19339,6 +19372,14 @@
       "fileSize": "4.27 GB"
     },
     {
+      "title": "Taival v0.3.0 370 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:0966176d5459d09b701c5ef9cc192a8825e073cc&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=http://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-07-14T19:46:13Z",
+      "fileSize": "2.13 GB"
+    },
+    {
       "title": "Take on Mars v1.0.0011 39544",
       "uris": [
         "magnet:?xt=urn:btih:95b9dfa3b72877eb3c4a0c30099ee6935367646e&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.ccc.de:80/announce"
@@ -20306,6 +20347,14 @@
       "uploadDate": "2022-09-28T11:17:12Z",
       "fileSize": "56.40 MB",
       "comment": "http://rutor.is/torrent/890078"
+    },
+    {
+      "title": "The Mound Omen of Cthulhu CL34308 Portable",
+      "uris": [
+        "magnet:?xt=urn:btih:78c051080fae6ad97874d6d3c0ab01b70de2db78&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=http://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-07-15T13:44:06Z",
+      "fileSize": "23.39 GB"
     },
     {
       "title": "The Other Side v0.9.4.8 Portable",
