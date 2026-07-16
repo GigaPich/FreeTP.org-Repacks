@@ -16913,6 +16913,15 @@
       "comment": "http://rutor.is/torrent/1015571"
     },
     {
+      "title": "Scrap Mechanic v0.7.4 b778 by Pioneer,torrent",
+      "uris": [
+        "magnet:?xt=urn:btih:5d8edd8796c14af631bee5cd4366a05472bdbeee&tr=udp://opentor.net:6969&tr=udp://zer0day.ch:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce"
+      ],
+      "uploadDate": "2026-07-16T09:01:32Z",
+      "fileSize": "3.49 GB",
+      "comment": "http://rutor.is/torrent/1099104"
+    },
+    {
       "title": "Scrapnaut v1.5.1 by Pioneer",
       "uris": [
         "magnet:?xt=urn:btih:e528639e6fbe6734bdb7845e900fd79d15ab67b0&tr=udp://opentor.net:6969&tr=udp://tracker.openbittorrent.com:80/announce&tr=http://retracker.local/announce"
